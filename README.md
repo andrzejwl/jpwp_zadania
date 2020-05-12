@@ -1,7 +1,7 @@
 # JPWP zadania python
 Do zrobienia są 2 zadania - do pierwszego podany jest template z adresem serwera, drugie należy napisać samodzielnie od zera. **Kolejność wykonywania zadań jest dowolna - zadanie drugie można zrobić nie wykonując wcześniej zadania pierwszego**.
 
-**Jakby ktoś chciał jeszcze dzisiaj robić zadanie 1 - napisz do mnie na fb, bo serwer jest wyłączony.
+**Jakby ktoś chciał jeszcze dzisiaj robić zadanie 1 - napisz do mnie na fb, bo serwer jest wyłączony.**
 
 ---
 ## Zadanie 1 
