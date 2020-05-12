@@ -1,6 +1,8 @@
 # JPWP zadania python
 Do zrobienia są 2 zadania - do pierwszego podany jest template z adresem serwera, drugie należy napisać samodzielnie od zera. **Kolejność wykonywania zadań jest dowolna - zadanie drugie można zrobić nie wykonując wcześniej zadania pierwszego**.
 
+**Jakby ktoś chciał jeszcze dzisiaj robić zadanie 1 - napisz do mnie na fb, bo serwer jest wyłączony.
+
 ---
 ## Zadanie 1 
 Korzystając z podanego szablonu (```zad1.py```) i z dokumentacji naszego projektu ([link tutaj](https://github.com/adambaranowski/minesweeper/blob/master/README.md)) nawiąż połączenie z serwerem, otwórz sesję użytkownika, pobierz informacje na temat dostępnych pokojów (```ALL_ROOMS```) oraz utwórz własny pokój. 
